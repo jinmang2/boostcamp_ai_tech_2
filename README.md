@@ -84,12 +84,12 @@
 - 실제 Production Serving단까지 경험해볼 좋은 기회!!
 - huggingface hub에 올린 모델을 django/flask로 real-world service로 만들어보자!
 
-[![img](assets/img/ai_production_process.png)](https://boostcamp.connect.or.kr/program_ai.html)
+[![img](assets/img/ai_production_process.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
 
 - 본 과정은 아래 과정처럼 진행됨
 - NLP와 CV를 선택할 수 있으나, 본인은 `Natural Language Processing` 외길이기 때문에 NLP를 선택하여 본 교육 과정을 들을 예정
 
-[![img](assets/img/ai_production_process2.png)](https://boostcamp.connect.or.kr/program_ai.html)
+[![img](assets/img/ai_production_process2.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
 
 ## Pre-course
 - https://www.boostcourse.org/ai100
@@ -99,7 +99,7 @@
 - `2021.08.02` ~ `2021.09.03`
 - AI 모델 개발과 서비스 적용에 필요한 기초 지식을 학습, 도메인마다 널리 쓰이는 backbone 모델을 다룬다.
 
-[![u-stage](assets/img/u_stage.png)](https://boostcamp.connect.or.kr/program_ai.html)
+[![u-stage](assets/img/u_stage.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
 
 - 모든 과정은 온라인 환경에서 자기 주도적으로 진행
 - 매주 공개되는 온라인 강의를 boostcourse에서 수강하고 강의마다 출제되는 퀴즈와 프로그래밍 과제를 수행하고 제출
@@ -118,7 +118,7 @@
 - 파이프라인 구축과 성능 개선을 위한 실습으로 구성
 - 24시간 실습 및 프로젝트를 원활하게 참여할 수 있도록 NAVER CLOUD PLATFORM에서 GPU를 후원
 
-[![p-stage](assets/img/p_stage.png)](https://boostcamp.connect.or.kr/program_ai.html)
+[![p-stage](assets/img/p_stage.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
 
 ### Image Classification
 ### Image Segmentation and Object Detection
