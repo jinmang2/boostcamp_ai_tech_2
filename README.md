@@ -37,35 +37,15 @@
     <li><a href="#total-curriculum">Total Curriculum</a></li>
       <ul>
         <li><a href="#level-1">LEVEL 1</a></li>
-          <ul>
-            <li><a href="#week-1">Week 1</a></li>
-            <li><a href="#week-2">Week 2</a></li>
-            <li><a href="#week-3">Week 3</a></li>
-            <li><a href="#week-4">Week 4</a></li>
-            <li><a href="#week-5">Week 5</a></li>
-          </ul>
+            <a href="#week-01">Week 01</a> · <a href="#week-02">Week 02</a> · <a href="#week-03">Week 03</a> · <a href="#week-04">Week 04</a> · <a href="#week-05">Week 05</a>
         <li><a href="#level-2">LEVEL 2</a></li>
-        <ul>
-          <li><a href="#week-6">Week 6</a></li>
-          <li><a href="#week-7">Week 7</a></li>
-          <li><a href="#week-8">Week 8</a></li>
-          <li><a href="#week-9">Week 9</a></li>
-          <li><a href="#week-10">Week 10</a></li>
-          <li><a href="#week-11">Week 11</a></li>
-          <li><a href="#week-12">Week 12</a></li>
-          <li><a href="#week-13">Week 13</a></li>
-          <li><a href="#week-14">Week 14</a></li>
-        </ul>
+            <a href="#week-06">Week 06</a> · <a href="#week-07">Week 07</a> · <a href="#week-08">Week 08</a> · <a href="#week-09">Week 09</a> · <a href="#week-10">Week 10</a>
+            <br>
+            <a href="#week-11">Week 11</a> · <a href="#week-12">Week 12</a> · <a href="#week-13">Week 13</a> · <a href="#week-14">Week 14</a>
         <li><a href="#level-3">LEVEL 3</a></li>
-        <ul>
-          <li><a href="#week-15">Week 15</a></li>
-          <li><a href="#week-16">Week 16</a></li>
-          <li><a href="#week-17">Week 17</a></li>
-          <li><a href="#week-18">Week 18</a></li>
-          <li><a href="#week-19">Week 19</a></li>
-          <li><a href="#week-20">Week 20</a></li>
-          <li><a href="#week-21">Week 21</a></li>
-        </ul>
+            <a href="#week-15">Week 15</a> · <a href="#week-16">Week 16</a> · <a href="#week-17">Week 17</a> · <a href="#week-18">Week 18</a> · <a href="#week-19">Week 19</a>
+            <br>
+            <a href="#week-20">Week 20</a> · <a href="#week-21">Week 21</a>
       </ul>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -130,27 +110,27 @@
 ### LEVEL 1
 - AI 모델 개발과 서비스 적용에 필요한 기초 지식을 학습하고 도메인별로 널리 쓰이는 backbone 모델을 다루는 이론 학습 단계
 
-#### Week 1
+#### Week 01
 - **U-stage** `2021.08.02` ~ `2021.08.06`
 - Python basics for AI, AI Math
 - 마스터: 최성철 교수님, 임성빈 교수님
 
-#### Week 2
+#### Week 02
 - **U-stage** `2021.08.09` ~ `2021.08.13`
 - Deep Learning Basics
 - 마스터: 최성준 교수님
 
-#### Week 3
+#### Week 03
 - **U-stage** `2021.08.16` ~ `2021.08.20`
 - Pytorch for AI
 - 마스터: 최성철 교수님
 
-#### Week 4
+#### Week 04
 - **P-stage** `2021.08.23` ~ `2021.09.27`
 - Image Classification
 - 마스터: 김태진 강사님
 
-#### Week 5
+#### Week 05
 - **P-stage** `2021.08.30` ~ `2021.09.03`
 - Image Classification
 - 마스터: 김태진 강사님
@@ -165,22 +145,22 @@
 ### LEVEL 2
 - 도메인 별 심화 이론 및 널리 쓰이는 backbone 모델 학습, 모델링 심화
 
-#### Week 6
+#### Week 06
 - **U-stage** `2021.09.06` ~ `2021.09.10`
 - NLP 이론
 - 마스터: 주재걸 교수님
 
-#### Week 7
+#### Week 07
 - **U-stage** `2021.09.13` ~ `2021.09.17`
 - NLP 이론
 - 마스터: 주재걸 교수님
 
-#### Week 8
+#### Week 08
 - **S-stage** `2021.09.20` ~ `2021.09.24`
 - 다양한 주제 기반의 특강
 - 마스터: 이활석, 박은정, 이준엽, 김상훈, 박성준, 문지형, 오혜연, 구종만 강사 및 교수님
 
-#### Week 9
+#### Week 09
 - **P-stage** `2021.09.27` ~ `2021.10.01`
 - KLUE
 - 마스터: 김성현 강사님
