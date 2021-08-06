@@ -21,7 +21,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#why-did-i-apply-for-this-project?">Why did i apply for this project?</a>
+        <li><a href="#why-did-i-apply-for-this-project?">Why did I apply for this project?</a>
         </li>
         <!-- <li><a href="#after-this-project-is-over">After this project is over</li> -->
       </ul>
@@ -63,7 +63,7 @@
 </div>
 <br/>
 
-### Why did i apply for this project?
+### Why did I apply for this project?
 - 회사에서 TOD 관련 논문 및 구현체를 읽으며 관련 개념을 공부하던 때였음 (21년 5월)
 - 그러던 와중에 1기분들의 v-log 및 [github](https://github.com/ydy8989/boostcamp)을 봤고
 - 여러 논문을 뜯어가며 힘겹게 공부하던 내용들을(회사에선 배우지 못했던) 본 과정에서 가르쳐주는 것을 보고 굉장히 매력적이라 느낌
