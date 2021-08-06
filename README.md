@@ -1,34 +1,27 @@
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://boostcamp.connect.or.kr/">
-    <img src="assets/img/boostcamp.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h2 align="center">Naver BoostCamp AI Tech 2</h2>
-
-  <p align="center">
-    An awesome AI education to jumpstart my NLP projects!
-    <br />
-    <a href="https://github.com/jinmang2/BoostCamp_AI_Tech_2/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/jinmang2">My Github</a>
-    ·
-    <a href="https://huggingface.co/jinmang2">My Huggingface Hub</a>
-    ·
-    <a href="https://boostcamp.connect.or.kr/">BoostCamp</a>
-    ·
-    <a href="https://github.com/jinmang2/BoostCamp_AI_Tech_2/issues">Request Feature</a>
-  </p>
-</p>
-
+<div align="center">
+<img alt="Logo" src="https://github.com/jinmang2/BoostCamp_AI_Tech_2/raw/main/assets/img/boostcamp.png" width="80" height="80"></img>
+<h1>Naver BoostCamp AI Tech 2</h1>
+  An awesome AI education to jumpstart my NLP projects!
+  <br />
+  <a href="https://github.com/jinmang2/BoostCamp_AI_Tech_2/README.md"><strong>Explore the docs »</strong></a>
+  <br />
+  <a href="https://github.com/jinmang2">My Github</a>
+  ·
+  <a href="https://huggingface.co/jinmang2">My Huggingface Hub</a>
+  ·
+  <a href="https://boostcamp.connect.or.kr/">BoostCamp</a>
+  ·
+  <a href="https://github.com/jinmang2/BoostCamp_AI_Tech_2/issues">Request Feature</a>
+</div>
+<br></br>
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#why-did-i-apply-for-this-project?">Why did i apply for this project?</a>
+        <li><a href="#why-did-i-apply-for-this-project?">Why did I apply for this project?</a>
         </li>
         <!-- <li><a href="#after-this-project-is-over">After this project is over</li> -->
       </ul>
@@ -41,25 +34,18 @@
       </ul> -->
     </li>
     <li><a href="#pre-course">Pre-course</a></li>
-    <li><a href="#u-stage">U-stage</a></li>
+    <li><a href="#total-curriculum">Total Curriculum</a></li>
       <ul>
-        <li><a href="#python-basic-for-ai">Python Basic for AI</a></li>
-        <li><a href="#ai를-위한-수학">AI를 위한 수학</a></li>
-        <li><a href="#pytorch-for-ai">Pytorch for AI</a></li>
-        <li><a href="#deep-learning-basics">Deep Learning Basics</a></li>
-        <li><a href="#computer-vision-basic">Computer Vision Basic</a></li>
-        <li><a href="#natural-language-processing-basic">Natural Language Processing Basic</a></li>
-      </ul>
-    <li><a href="#p-stage">P-stage</a></li>
-      <ul>
-        <li><a href="#image-classification">Image Classification</a></li>
-        <li><a href="#image-segmentation-and-object-detection">Image Segmentation and Object Detection</a></li>
-        <li><a href="#train-language-model-and-fine-tune-at-klue">Train Language Model and Fine-tune at KLUE</a></li>
-        <li><a href="#dialogue-state-tracking">Dialogue State Tracking</a></li>
-        <li><a href="#machine-reading-comprehension">Machine Reading Comprehension</a></li>
-        <li><a href="#data-production">Data Production</a></li>
-        <li><a href="#model-optimization">Model Optimization</a></li>
-        <li><a href="#product-serving">Product Serving</a></li>
+        <li><a href="#level-1">LEVEL 1</a></li>
+            <a href="#week-01">Week 01</a> · <a href="#week-02">Week 02</a> · <a href="#week-03">Week 03</a> · <a href="#week-04">Week 04</a> · <a href="#week-05">Week 05</a>
+        <li><a href="#level-2">LEVEL 2</a></li>
+            <a href="#week-06">Week 06</a> · <a href="#week-07">Week 07</a> · <a href="#week-08">Week 08</a> · <a href="#week-09">Week 09</a> · <a href="#week-10">Week 10</a>
+            <br>
+            <a href="#week-11">Week 11</a> · <a href="#week-12">Week 12</a> · <a href="#week-13">Week 13</a> · <a href="#week-14">Week 14</a>
+        <li><a href="#level-3">LEVEL 3</a></li>
+            <a href="#week-15">Week 15</a> · <a href="#week-16">Week 16</a> · <a href="#week-17">Week 17</a> · <a href="#week-18">Week 18</a> · <a href="#week-19">Week 19</a>
+            <br>
+            <a href="#week-20">Week 20</a> · <a href="#week-21">Week 21</a>
       </ul>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -71,7 +57,13 @@
 - `2021.08.02` ~ `2021.12.27`까지 진행되는 AI 최상위 교육 과정
 - 학계와 산업 현장의 최전방에서 달리고 있는 최고의 실력자들의 경험 공유를 기반으로 국내 최고 수준의 AI 교육을 진행
 
-### Why did i apply for this project?
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
+
+### Why did I apply for this project?
 - 회사에서 TOD 관련 논문 및 구현체를 읽으며 관련 개념을 공부하던 때였음 (21년 5월)
 - 그러던 와중에 1기분들의 v-log 및 [github](https://github.com/ydy8989/boostcamp)을 봤고
 - 여러 논문을 뜯어가며 힘겹게 공부하던 내용들을(회사에선 배우지 못했던) 본 과정에서 가르쳐주는 것을 보고 굉장히 매력적이라 느낌
@@ -79,6 +71,11 @@
   - (+) 최성철 교수님 주재걸 교수님 서민준 교수님 이활석님 이유경님 김성현님 등등...
   - 정말 너무 좋은 과정 + 좋은 마스터분들이 계시기에 퇴사 후 지원을 결심하게 됨
 
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
 
 ## Path of Growth
 - 실제 Production Serving단까지 경험해볼 좋은 기회!!
@@ -91,44 +88,158 @@
 
 [![img](assets/img/ai_production_process2.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
 
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
+
 ## Pre-course
 - https://www.boostcourse.org/ai100
 
-## U Stage
-- [핵심 이론 5주 과정](https://github.com/jinmang2/BoostCamp_AI_Tech_2/u-stage)
-- `2021.08.02` ~ `2021.09.03`
-- AI 모델 개발과 서비스 적용에 필요한 기초 지식을 학습, 도메인마다 널리 쓰이는 backbone 모델을 다룬다.
+## Total Curriculum
 
-[![u-stage](assets/img/u_stage.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
+[![img](assets/img/total_curriculum.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
 
-- 모든 과정은 온라인 환경에서 자기 주도적으로 진행
-- 매주 공개되는 온라인 강의를 boostcourse에서 수강하고 강의마다 출제되는 퀴즈와 프로그래밍 과제를 수행하고 제출
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
 
-### Python Basic for AI
-### AI를 위한 수학
-### Pytorch for AI
-### Deep Learning Basics
-### Computer Vision Basic
-### Natural Language Processing Basic
+## LEVEL 1
+- AI 모델 개발과 서비스 적용에 필요한 기초 지식을 학습하고 도메인별로 널리 쓰이는 backbone 모델을 다루는 이론 학습 단계
 
-## P Stage
-- [프로젝트 실습 15주 과정](https://github.com/jinmang2/BoostCamp_AI_Tech_2/p-stage)
-- `2021.09.06` ~ `2021.12.27`
-- AI를 많이 활용하는 응용 분야(CV, NLP)의 실전 프로젝트를 통해 현업과 유사한 엔지니어링 프로세스를 경험
-- 파이프라인 구축과 성능 개선을 위한 실습으로 구성
-- 24시간 실습 및 프로젝트를 원활하게 참여할 수 있도록 NAVER CLOUD PLATFORM에서 GPU를 후원
+### Week 01
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.08.02` ~ `2021.08.06`
+- [Python basics for AI](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic/README.md), [AI Math](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/README.md)
+- 마스터: 최성철 교수님, 임성빈 교수님
 
-[![p-stage](assets/img/p_stage.PNG)](https://boostcamp.connect.or.kr/program_ai.html)
+### Week 02
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.08.09` ~ `2021.08.13`
+- Deep Learning Basics
+- 마스터: 최성준 교수님
 
-### Image Classification
-### Image Segmentation and Object Detection
-### Train Language Model and Fine-tune at KLUE
-### Dialogue State Tracking
-### Machine Reading Comprehension
-### Data Production
-### Model Optimization
-### Product Serving
+### Week 03
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.08.16` ~ `2021.08.20`
+- Pytorch for AI
+- 마스터: 최성철 교수님
 
+### Week 04
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.08.23` ~ `2021.09.27`
+- Image Classification
+- 마스터: 김태진 강사님
+
+### Week 05
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.08.30` ~ `2021.09.03`
+- Image Classification
+- 마스터: 김태진 강사님
+
+
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
+
+## LEVEL 2
+- 도메인 별 심화 이론 및 널리 쓰이는 backbone 모델 학습, 모델링 심화
+
+### Week 06
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.09.06` ~ `2021.09.10`
+- NLP 이론
+- 마스터: 주재걸 교수님
+
+### Week 07
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.09.13` ~ `2021.09.17`
+- NLP 이론
+- 마스터: 주재걸 교수님
+
+### Week 08
+- [**S-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/README.md) `2021.09.20` ~ `2021.09.24`
+- 다양한 주제 기반의 특강
+- 마스터: 이활석, 박은정, 이준엽, 김상훈, 박성준, 문지형, 오혜연, 구종만 강사 및 교수님
+
+### Week 09
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.09.27` ~ `2021.10.01`
+- KLUE
+- 마스터: 김성현 강사님
+
+### Week 10
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.04` ~ `2021.10.08`
+- KLUE
+- 마스터: 김성현 강사님
+
+### Week 11
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.11` ~ `2021.10.15`
+- KLUE
+- 마스터: 김성현 강사님
+
+### Week 12
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.18` ~ `2021.10.22`
+- Machine Reading Comprehension
+- 마스터: 서민준 교수님
+
+### Week 13
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.25` ~ `2021.10.29`
+- Machine Reading Comprehension
+- 마스터: 서민준 교수님
+
+### Week 14
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.01` ~ `2021.11.05`
+- Machine Reading Comprehension
+- 마스터: 서민준 교수님
+
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
+
+## LEVEL 3
+- 실전 프로젝트를 통해 현업과 유사한 엔지니어링 프로세스를 경험하는 End-to-End 단계
+
+### Week 15
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.08` ~ `2021.11.12`
+- 데이터 다루기
+- 마스터: 이활석, 한지윤 강사님
+
+### Week 16
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.15` ~ `2021.11.19`
+- 데이터 다루기
+- 마스터: 이활석, 한지윤 강사님
+
+### Week 17
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.22` ~ `2021.11.26`
+- 모델 최적화
+- 마스터: 김정훈 강사님
+
+### Week 18
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.29` ~ `2021.12.03`
+- 모델 최적화
+- 마스터: 김정훈 강사님
+
+### Week 19
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.12.06` ~ `2021.12.10`
+- Product Serving
+- 마스터: 변성윤 강사님
+
+### Week 20
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.12.13` ~ `2021.12.17`
+- Product Serving
+- 마스터: 변성윤 강사님
+
+### Week 21
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.12.20` ~ `2021.12.23`
+- Product Serving
+- 마스터: 변성윤 강사님
+
+
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
 
 <!-- CONTACT -->
 ## Contact
@@ -137,6 +248,12 @@
   - [Gmail](jinmang2@gmail.com): jinmang2@gmail.com
   - [Github](https://github.com/jinmang2): github.com/jinmang2
   - [Huggingface Hub](huggingface.co/jinmang2): huggingface.co/jinmang2
+
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -161,4 +278,12 @@ SUNG KIM (UPSTAGE CEO, 전 NAVER Clova AI Head)
 김성현 (Smilegate AI)
 김성동 (Naver AI LAB)
 서민준 (KAIST AI 대학원)
+
+UP Stage and Naver Connect
 ```
+
+<br/>
+<div align="right">
+    <b><a href="#naver-boostcamp-ai-tech-2">↥ back to top</a></b>
+</div>
+<br/>
