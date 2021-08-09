@@ -322,3 +322,16 @@ plt.show()
 ![img](../../../assets/img/u-stage/dl_basic_02_22.PNG)
 
 ### Mathematical
+
+#### Xavier Initialization
+- **normal**
+$$W\sim N(0,\sqrt{\cfrac{2}{n_{in}+n_{out}}})$$
+
+- **uniform**
+$$W\sim U(-\sqrt{\cfrac{6}{n_{in}+n_{out}}},\sqrt{\cfrac{6}{n_{in}+n_{out}}})$$
+
+#### Kaiming He
+- **normal**
+$$W\sim N(0,\sqrt{\cfrac{2}{n_{in}}})$$
+- **uniform**
+$$W\sim N(-\sqrt{\cfrac{6}{n_{in}}},\sqrt{\cfrac{6}{n_{in}}})$$
