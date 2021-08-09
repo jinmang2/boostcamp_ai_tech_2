@@ -326,7 +326,7 @@ class NLLLoss(nn.Module):
         assert y_pred.size(-1) > max(y).item()
         # torch 공홈의 수식과 같은 값을 반환
         bsz = y_pred.size(batch_index)
-        return torch.mean(y_pred[torch.arange(bsz), y])
+        return torch.mean(-y_pred[torch.arange(bsz), y])
 ```
 - 이를 기반으로 Cross Entropy Loss를 구현하면 아래와 같다.
 ```python
@@ -336,7 +336,7 @@ class CrossEntropyLoss(nn.Module):
 
     def forward(self, y_pred, y, *args):
         nll_loss = NLLLoss(*args)
-        y_pred = -log_softmax(y_pred, dim=-1)
+        y_pred = log_softmax(y_pred, dim=-1)
         return nll_loss(y_pred, y)
 ```
 - 맞게 구현되었는지 loss 값을 확인하자!
