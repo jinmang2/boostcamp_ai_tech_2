@@ -1,5 +1,7 @@
 # 1강 Introduction to Visualization
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/data_viz)
+
 ## 1.1 OT
 데이터 시각화가 무엇이고 앞으로 무엇을 배울 것인지 알아보자!
 

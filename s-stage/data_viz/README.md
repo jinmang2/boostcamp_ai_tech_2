@@ -1,7 +1,9 @@
 # Data Visualization
 - 안수빈 마스터
 
-## 1. Introduction to Visualization (08/09 월)
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage)
+
+## [1. Introduction to Visualization (08/09 월)](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/data_viz/ch01_intro_viz)
 
 데이터 시각화가 무엇인지 마스터클래스를 통해 간단하게 살펴봅니다.
 
@@ -10,7 +12,7 @@
 - Python과 Matplotlib
 
 
-## 2. 기본 차트의 사용 (08/09 월)
+## [2. 기본 차트의 사용 (08/09 월)](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/data_viz/ch02_basic_chart)
 
 가장 대표적인 3가지 차트를 통해 matplotlib의 문법을 익히고, 시각화의 오용과 해결책에 대해 다룹니다.
 

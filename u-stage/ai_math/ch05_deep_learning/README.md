@@ -1,5 +1,7 @@
 # 5강 딥러닝 학습방법 이해하기
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+
 ## 신경망을 수식으로 분해해보자
 - 신경망은 비선형모델(nonlinear funciton)이다.
 
@@ -7,7 +9,7 @@
 
 - 위 그림은 기존에 학습했던 linear 수식이다.
 - 출력 logit $O$에 `softmax`함수를 적용하여 각 class에 속할 확률로 변환시켜준다.
-    - 왜 softmax? 그냥 softmax만 쓰나? [Further Question](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/beauty/u-stage/ai_math/ch05_deep_learning/further_question.md)
+    - 왜 softmax? 그냥 softmax만 쓰나? [Further Question](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/ch05_deep_learning/further_question.md)
 
 ![img](../../../assets/img/u-stage/dl3.PNG)
 

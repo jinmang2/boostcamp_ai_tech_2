@@ -2,6 +2,8 @@
 모수의 개념과 모수를 추정하는 방법으로 **최대가능도 추정법** 소개
 정규분포, 카테고리분포에서의 예제로 최대가능도 추정법을 설명
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+
 ## 모수가 뭐에요?
 - 통계적 모델링은 적절한 가정 위에서 확률분포를 추정(inference)하는 것이 목표!
 - 기계학습과 통계학이 공통적으로 추구하는 목표

@@ -1,6 +1,8 @@
 # 6강 Numpy 기초
 선형대수의 계산식을 다루는 라이브러리를 다뤄봅니다.
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+
 ## 코드로 방정식 표현하기
 ```python
 coefficient_matrix = [[2, 2, 1], [2, -1, 2], [1, -1, 2]]

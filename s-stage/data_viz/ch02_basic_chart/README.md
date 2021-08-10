@@ -1,6 +1,8 @@
 # 2강 기본적인 차트의 사용
 가장 대표적인 3가지 차트를 통해 matplotlib의 문법을 익히고 시각화의 오용과 해결책에 대해 다룬다.
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/data_viz)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ul>

@@ -1,5 +1,7 @@
 # 1강 파이썬 AI 개발 환경 준비하기
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+
 ## 1.1 Basic computer class for newbies
 - 뉴비를 위한 파일 시스템 및 터미널 기초
 

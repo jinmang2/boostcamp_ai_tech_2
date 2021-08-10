@@ -111,27 +111,31 @@
 - AI 모델 개발과 서비스 적용에 필요한 기초 지식을 학습하고 도메인별로 널리 쓰이는 backbone 모델을 다루는 이론 학습 단계
 
 ### Week 01
-- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.08.02` ~ `2021.08.06`
-- [Python basics for AI](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic/README.md), [AI Math](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/README.md)
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage) `2021.08.02` ~ `2021.08.06`
+- [Python basics for AI](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic), [AI Math](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/)
 - 마스터: 최성철 교수님, 임성빈 교수님
 
 ### Week 02
-- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.08.09` ~ `2021.08.13`
-- Deep Learning Basics
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage) `2021.08.09` ~ `2021.08.13`
+- [Deep Learning Basics](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
 - 마스터: 최성준 교수님
 
+- [**S-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage) `2021.08.09`
+- [Data Visualization](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/data_viz)
+- 마스터: 안수빈 강사님
+
 ### Week 03
-- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.08.16` ~ `2021.08.20`
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage) `2021.08.16` ~ `2021.08.20`
 - Pytorch for AI
 - 마스터: 최성철 교수님
 
 ### Week 04
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.08.23` ~ `2021.09.27`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.08.23` ~ `2021.09.27`
 - Image Classification
 - 마스터: 김태진 강사님
 
 ### Week 05
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.08.30` ~ `2021.09.03`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.08.30` ~ `2021.09.03`
 - Image Classification
 - 마스터: 김태진 강사님
 
@@ -146,47 +150,47 @@
 - 도메인 별 심화 이론 및 널리 쓰이는 backbone 모델 학습, 모델링 심화
 
 ### Week 06
-- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.09.06` ~ `2021.09.10`
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage) `2021.09.06` ~ `2021.09.10`
 - NLP 이론
 - 마스터: 주재걸 교수님
 
 ### Week 07
-- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/README.md) `2021.09.13` ~ `2021.09.17`
+- [**U-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage) `2021.09.13` ~ `2021.09.17`
 - NLP 이론
 - 마스터: 주재걸 교수님
 
 ### Week 08
-- [**S-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage/README.md) `2021.09.20` ~ `2021.09.24`
+- [**S-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/s-stage) `2021.09.20` ~ `2021.09.24`
 - 다양한 주제 기반의 특강
 - 마스터: 이활석, 박은정, 이준엽, 김상훈, 박성준, 문지형, 오혜연, 구종만 강사 및 교수님
 
 ### Week 09
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.09.27` ~ `2021.10.01`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.09.27` ~ `2021.10.01`
 - KLUE
 - 마스터: 김성현 강사님
 
 ### Week 10
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.04` ~ `2021.10.08`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.10.04` ~ `2021.10.08`
 - KLUE
 - 마스터: 김성현 강사님
 
 ### Week 11
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.11` ~ `2021.10.15`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.10.11` ~ `2021.10.15`
 - KLUE
 - 마스터: 김성현 강사님
 
 ### Week 12
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.18` ~ `2021.10.22`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.10.18` ~ `2021.10.22`
 - Machine Reading Comprehension
 - 마스터: 서민준 교수님
 
 ### Week 13
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.10.25` ~ `2021.10.29`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.10.25` ~ `2021.10.29`
 - Machine Reading Comprehension
 - 마스터: 서민준 교수님
 
 ### Week 14
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.01` ~ `2021.11.05`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.11.01` ~ `2021.11.05`
 - Machine Reading Comprehension
 - 마스터: 서민준 교수님
 
@@ -200,37 +204,37 @@
 - 실전 프로젝트를 통해 현업과 유사한 엔지니어링 프로세스를 경험하는 End-to-End 단계
 
 ### Week 15
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.08` ~ `2021.11.12`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.11.08` ~ `2021.11.12`
 - 데이터 다루기
 - 마스터: 이활석, 한지윤 강사님
 
 ### Week 16
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.15` ~ `2021.11.19`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.11.15` ~ `2021.11.19`
 - 데이터 다루기
 - 마스터: 이활석, 한지윤 강사님
 
 ### Week 17
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.22` ~ `2021.11.26`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.11.22` ~ `2021.11.26`
 - 모델 최적화
 - 마스터: 김정훈 강사님
 
 ### Week 18
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.11.29` ~ `2021.12.03`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.11.29` ~ `2021.12.03`
 - 모델 최적화
 - 마스터: 김정훈 강사님
 
 ### Week 19
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.12.06` ~ `2021.12.10`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.12.06` ~ `2021.12.10`
 - Product Serving
 - 마스터: 변성윤 강사님
 
 ### Week 20
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.12.13` ~ `2021.12.17`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.12.13` ~ `2021.12.17`
 - Product Serving
 - 마스터: 변성윤 강사님
 
 ### Week 21
-- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage/README.md) `2021.12.20` ~ `2021.12.23`
+- [**P-stage**](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/p-stage) `2021.12.20` ~ `2021.12.23`
 - Product Serving
 - 마스터: 변성윤 강사님
 

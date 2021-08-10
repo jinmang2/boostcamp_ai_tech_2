@@ -1,6 +1,8 @@
 # Python Basics for AI
 - master: 최성철 교수님
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage)
+
 ### [1강: 파이썬 AI 개발 환경 준비하기](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic/ch01_python/README.md)
 - Basic computer class for newbies
 - 파이썬 개요
