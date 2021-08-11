@@ -11,3 +11,12 @@
 
 ### [3강: 최적화 - Optimization](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch03_optimization)
 - 최적화와 관련된 주요 용어와 다양한 Gradient Descent 기법을 학습
+
+### [4강: Convolutional은 무엇인가?](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch04_convolution)
+- CNN에 대해 학습하기 전 Convolution이 무엇인지를 학습
+
+### [5강: Mordern CNN - 1X1 convolution의 중요성](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch05_modern_cnn)
+- ILSVR라는 Visual Recognition Challenge와 대회에서 수상을 했던 주요 5개 Network들의 주요 아이디어와 구조에 대해 학습
+
+### [6강: Computer Vision Applications](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch06_cv_api)
+- Computer Vision에서 CNN을 이용한 분야를 알아보자
