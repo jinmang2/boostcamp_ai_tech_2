@@ -20,3 +20,9 @@
 
 ### [6강: Computer Vision Applications](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch06_cv_api)
 - Computer Vision에서 CNN을 이용한 분야를 알아보자
+
+### [7강: Sequential Models - RNN](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch07_rnn)
+- Recurrence Neural Network에 대해 학습
+
+### [8강: Sequential Models - Transformer](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch08_transformer)
+- Transformer에 대해서 학습
