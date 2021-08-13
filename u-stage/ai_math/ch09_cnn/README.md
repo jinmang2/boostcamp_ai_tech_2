@@ -2,7 +2,7 @@
 **Convolution 연산**과 **다양한 차원에서의 연산방법**을 소개합니다.
 **Convolution 연산의 역전파**에 대해 설명합니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math)
 
 ## Convolution 연산 이해하기
 - MLP는 fully-connected

@@ -1,6 +1,6 @@
 # 7강 Pandas 기초
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/python_basic)
 
 ## Pandas I
 

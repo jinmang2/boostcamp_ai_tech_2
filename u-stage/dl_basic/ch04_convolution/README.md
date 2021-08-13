@@ -3,7 +3,7 @@
 - CNN에 대해 공부하기 전에 **Convolution의 정의**, **Convolution 연산 방법과 기능** 에 대해 배운다.
 - 가장 기본적인 **CNN(Convolutional Neural Network)** 에 대해서도 학습한다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Convolution
 - Convolution은 아래의 연산을 의미

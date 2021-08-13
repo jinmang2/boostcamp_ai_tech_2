@@ -2,7 +2,7 @@
 미분의 개념과 **그레디언트 벡터** 에 대해 설명
 **경사하강법** 의 알고리즘과 실제 코드에서의 구현 실습
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math)
 
 ## 미분이란?
 - 미분(differentiation)은 **변수의 움직임에 따른 함수값의 변화를 측정하기 위한 도구** 로 최적화에서 제일 많이 사용하는 기법

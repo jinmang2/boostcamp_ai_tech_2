@@ -4,7 +4,7 @@
 **Deep Neural Networks**
 Deep Neural Netowkrs란 무엇이며 Multi-layer perceptron와 같이 더 깊은 네트워크는 어떻게 구성하는지에 대해 배웁니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Neural Networks
 - 신경망은 뇌의 모방?

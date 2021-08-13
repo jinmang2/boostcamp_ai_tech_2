@@ -3,7 +3,7 @@
 - 주식, 언어와 같은 Sequential data와 이를 이용한 **Sequential model의 정의와 종류에** 대해 배웁니다.
 - 그 후 딥러닝에서 sequential data를 다루는 **Recurrent Neural Networks 에 대한 정의와 종류에** 대해 배웁니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Sequential Model
 - 가변적인 길이의 sequence를 어떻게 모델링할 것인가?
@@ -125,4 +125,4 @@
 
 ## 더 상세한 내용 정리
 - 코드 및 further question을 아래에 정리해 두었습니다!
-- [Further Questions](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch07_rnn/further_question.md)
+- [Further Questions](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic/ch07_rnn/further_question.md)

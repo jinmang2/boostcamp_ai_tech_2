@@ -3,7 +3,7 @@
 - **Sequential model의 한계점과** 이를 해결 하기 위해 등장한 **Transformer에** 대해 배운다
 - Transformer는 Encoder와 Decoder로 구성되어 있지만, 강의에서는 **Encoder와 Multi-Head Attention에 대해 좀 더 집중적으로** 배우자
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Transformer
 - 강의에선 아래 자료를 기반으로 transformer의 구조를 다룸

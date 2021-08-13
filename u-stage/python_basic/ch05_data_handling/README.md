@@ -1,5 +1,5 @@
 # 5강 파이썬으로 데이터 다루기
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/python_basic)
 
 ## 5.1 File / Exception / Log Handling
 ## Exception

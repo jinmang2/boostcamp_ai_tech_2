@@ -1,6 +1,6 @@
 # 2강 파이썬 기초 문법
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/python_basic)
 
 ## 2.1 Variable & List
 

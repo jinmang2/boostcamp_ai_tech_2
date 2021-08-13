@@ -2,7 +2,7 @@
 딥러닝의 기본 바탕이되는 **확률론**에 대해 소개
 **확률분포, 조건부확률, 기댓값** 의 개념과 **몬테카를로 샘플링** 방법을 설명
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math)
 
 ### 딥러닝에서 확률론이 왜 필요한가요?
 - 딥러닝은 확률론 기반의 기계학습 이론에 기반을 둠
@@ -83,4 +83,4 @@ $$\mathbb{E}_{x\sim P(x)}\big[f(x)\big]\approx \cfrac{1}{N}\sum_{i=1}^{N}f(x^{(i
 $$f(x)=e^{-x^2}$$
 
 ### 예제: 원주율 계산하기
-- [Further Question](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/ch06_probability/further_question.md)
+- [Further Question](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math/ch06_probability/further_question.md)
