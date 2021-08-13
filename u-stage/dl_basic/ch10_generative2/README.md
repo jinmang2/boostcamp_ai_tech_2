@@ -2,7 +2,7 @@
 
 - Practical한 Generative Model인 VAE를 중심으로 Latent variable model에 대해 학습
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Latent Variable Models
 - D.Kingma, "Variational Inference and Deep Learning: A New Synthesis"

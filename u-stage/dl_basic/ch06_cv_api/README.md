@@ -4,7 +4,7 @@
 - **Semantic segmentation** 의 정의, 핵심 아이디어에 대해 배웁니다.
 - **Object detection** 의 정의, 핵심 아이디어, 추가적으로 종류에 대해 배웁니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Semantic Segmentation
 - 이미지의 pixel이 어떤 라벨에 속하는지 모두 분류!

@@ -3,7 +3,7 @@
 - 머신러닝, 딥러닝에서 의미하는 **Generative model이 무엇인지**
 - **기본적인 통계 이론, 다양한 Generative model의 아이디어, 구조** 학습
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Introduction
 - Richard Feynman

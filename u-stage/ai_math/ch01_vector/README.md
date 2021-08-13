@@ -2,7 +2,7 @@
 **벡터의 기본 개념과 연산**, **노름**에 대해 소개
 **두 벡터 사이의 거리와 각도**, 그리고 **내적**에 대해 설명
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math)
 
 - 벡터는 숫자를 원소로 가지는 리스트(list) 혹은 배열(array)
     - 보통은 열벡터로 표현하나, numpy에선 행벡터로 나타낸다는 사실 유의하자.

@@ -2,7 +2,7 @@
 **경사하강법 기반의 선형회귀 알고리즘**에 대해 설명합니다.
 경사하강법의 단점을 보완하는 **확률적 경사하강법(stochastic gradient descent)** 을 소개합니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math)
 
 ## 경사하강법으로 선형회귀 계수 구하기
 ![img](../../../assets/img/u-stage/gd_spicy1.PNG)
@@ -15,7 +15,7 @@ $$\mathbb{E}[\lvert\lvert y-X\beta \rvert\rvert_2]$$
 $$\nabla_\beta\mathbb{E}[\lvert\lvert y-X\beta \rvert\rvert_2]=(\partial{\beta_1}\mathbb{E}[\lvert\lvert y-X\beta \rvert\rvert_2],\dots,\partial{\beta_d}\mathbb{E}[\lvert\lvert y-X\beta \rvert\rvert_2])$$
 
 - partial derivative
-    왜 아래 식으로 전개되는가? [Further Question](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/ch04_gd_spicy/further_question.md)
+    왜 아래 식으로 전개되는가? [Further Question](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math/ch04_gd_spicy/further_question.md)
 
 $$\begin{array}{ll}
 \partial{\beta_k}\mathbb{E}[\lvert\lvert y-X\beta \rvert\rvert_2]&=\partial_{\beta_k}\bigg\{ \cfrac{1}{n}\sum_{i=1}^{n}{\bigg(y_i-\sum_{j=1}^{d}X_{ij}\beta_j\bigg)}^2 \bigg\}^{1/2}\\

@@ -2,7 +2,7 @@
 **딥러닝에 대한 소개**: CNN(Convolutional neural networks), RNN(Recurrent Neural Networks)와 같은 딥러닝 모델을 공부하기 전에 중요한 요소인 Data, Model, Loss, Optimization algorithms에 대해 배웁니다.
 **딥러닝의 역사**: 2012년부터 2021년까지의 패러다임에 대해 배웁니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Introduction
 - What make you a good deep learner?

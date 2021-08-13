@@ -2,7 +2,7 @@
 **행렬의 개념과 연산**, 그리고 **벡터공간에서 가지는 의미**를 설명
 **연립방정식 풀기**와 **선형회귀분석**에 응용하는 방법을 소개
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/ai_math)
 
 - 행렬는 벡터를 원소로 가지는 **2차원 배열**
 ```python

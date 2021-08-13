@@ -8,7 +8,7 @@
 
 마지막으로, **Gradient Descent 기법에 따른 성능의 변화**를 알아보는 실습을 합니다.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## Introduction
 - Gradient Descent
@@ -89,7 +89,7 @@
 
 
 ## Practical Gradient Descent Methods
-더 자세히 정리한 글을 보고싶으면 [여기](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch03_optimization/optimizer)로!
+더 자세히 정리한 글을 보고싶으면 [여기](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic/ch03_optimization/optimizer)로!
 
 ### 크게 아래 세 개로 나눔 (중요하진 X)
 - Stochastic GD
@@ -212,7 +212,7 @@ $$W_{t+1}=W_t -\cfrac{\eta}{\sqrt{v_t+\epsilon}}$$
 - [Batch normalization](#batch-normalization)
 - 학습 데이터 뿐만 아니라 테스트 데이터 셋에도 잘 동작하도록!
 
-더 자세히 정리한 글을 보고싶으면 [여기](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch03_optimization/regularization)로!
+더 자세히 정리한 글을 보고싶으면 [여기](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic/ch03_optimization/regularization)로!
 
 ### Early stopping
 - validation error로 학습을 언제 멈출지 판단!

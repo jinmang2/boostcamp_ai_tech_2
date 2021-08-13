@@ -17,7 +17,7 @@ ILSVRC라는 Visual Recognition Challenge와 대회에서 수상을 했던 5개 
 - DenseNet
     - Resnet과 비슷한 아이디어지만 Addition이 아닌 Concatenation을 적용한 CNN.
 
-[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic)
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 
 ## ILSVRC
 - ImageNet Large-Scale Visual Recognition Challenge
