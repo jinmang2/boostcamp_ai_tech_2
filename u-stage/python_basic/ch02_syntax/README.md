@@ -1,5 +1,7 @@
 # 2강 파이썬 기초 문법
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+
 ## 2.1 Variable & List
 
 ### 변수의 개요

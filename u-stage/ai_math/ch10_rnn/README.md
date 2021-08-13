@@ -2,6 +2,8 @@
 **시퀀스 데이터**의 개념과 특징, 그리고 이를 처리하기 위한 **RNN**을 소개합니다.
 RNN에서의 역전파방법인 **BPTT**와 **기울기 소실**문제에 대해 설명합니다.
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+
 ## 시퀀스 데이터 이해하기
 - 순서가 중요한 데이터!
 - 소리, 문자열, 주가 등의 데이터를 시퀀스(Sequence) 데이터로 분류

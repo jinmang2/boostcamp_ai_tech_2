@@ -3,6 +3,8 @@
 베이즈 정리는 **데이터가 새로 추가되었을 때 정보를 업데이트하는 방식**에 대한 기반이 됨
 **사전확률**, **사후확률**, **evidence** 등의 개념을 잘 이해할 것
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math)
+
 ## 조건부 확률이란?
 - 빈도주의 vs 베이즈주의
 - **베이즈 정리** 조건부 확률을 이용하여 정보를 갱신하는 방법을 알려줌

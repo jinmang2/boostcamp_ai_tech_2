@@ -1,5 +1,7 @@
 # 3강 파이썬 기초 문법 2
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/python_basic)
+
 ## 3.1 Python Data Structure
 - 특징이 있는 정보를 어떻게 저장하는 것이 좋을까?
     - stack & queue

@@ -1,6 +1,8 @@
 # AI Math
 - master: 임성빈 교수님
 
+[back to super](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage)
+
 ### [1강: 벡터가 뭔가요?](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/ai_math/ch01_vector/README.md)
 - 벡터의 기초에 대해 학습
 
