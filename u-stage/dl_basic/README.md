@@ -26,3 +26,9 @@
 
 ### [8강: Sequential Models - Transformer](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch08_transformer)
 - Transformer에 대해서 학습
+
+### [9강: Generative Models 1](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch09_generative1)
+- Autoregressive model의 Generative model에 대해 학습
+
+### [10강: Generative Models 2](https://github.com/jinmang2/BoostCamp_AI_Tech_2/tree/main/u-stage/dl_basic/ch10_generative2)
+- Practical한 Generative model인 VAE를 중심으로 Latent variable model에 대해 학습
