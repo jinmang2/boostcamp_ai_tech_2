@@ -119,15 +119,17 @@
 - [**U-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage) `2021.08.09` ~ `2021.08.13`
 - [Deep Learning Basics](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 - 마스터: 최성준 교수님
-
 - [**S-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage) `2021.08.09`
-- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz)
+- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz) 1-2강
 - 마스터: 안수빈 강사님
 
 ### Week 03
-- [**U-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage) `2021.08.16` ~ `2021.08.20`
-- Pytorch for AI
+- [**U-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage) `2021.08.17` ~ `2021.08.20`
+- [Pytorch for AI](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/pytorch)
 - 마스터: 최성철 교수님
+- [**S-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage) `2021.08.17`
+- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz) 3강
+- 마스터: 안수빈 강사님
 
 ### Week 04
 - [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.08.23` ~ `2021.09.27`

@@ -19,3 +19,7 @@
 ## [Deep Learning Basic](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic)
 - 최성준 마스터
 - Week2 `2021.08.09` ~ `2021.08.13`
+
+## [PyTorch for AI](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/pytorch)
+- 최성철 마스터
+- Week3 `2021.08.17` ~ `2021.08.20`
