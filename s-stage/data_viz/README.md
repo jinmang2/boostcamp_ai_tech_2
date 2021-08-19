@@ -21,7 +21,7 @@
 - Scatter Plot 사용하기
 
 
-## 3. 차트의 요소 (08/16 월)
+## [3. 차트의 요소 (08/16 월)](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz/ch03_chart_component)
 
 다양한 요소를 사용하여 목적에 맞고, 미적으로 더 나은 시각화를 만드는 방법에 대해 다룹니다.
 
