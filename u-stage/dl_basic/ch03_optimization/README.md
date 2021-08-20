@@ -89,7 +89,7 @@
 
 
 ## Practical Gradient Descent Methods
-더 자세히 정리한 글을 보고싶으면 [여기](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/dl_basic/ch03_optimization/optimizer)로!
+더 자세히 정리한 글을 보고싶으면 [여기](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/pytorch/ch04_autograd/optimizer)로!
 
 ### 크게 아래 세 개로 나눔 (중요하진 X)
 - Stochastic GD
