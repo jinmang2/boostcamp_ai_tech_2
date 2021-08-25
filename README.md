@@ -132,13 +132,16 @@
 - 마스터: 안수빈 강사님
 
 ### Week 04
-- [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.08.23` ~ `2021.09.27`
-- Image Classification
+- [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.08.23` ~ `2021.08.27`
+- [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/p-stage/image_classification)
 - 마스터: 김태진 강사님
+- [**S-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage) `2021.08.23`
+- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz) 3강
+- 마스터: 안수빈 강사님
 
 ### Week 05
 - [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.08.30` ~ `2021.09.03`
-- Image Classification
+- [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/p-stage/image_classification)
 - 마스터: 김태진 강사님
 
 
