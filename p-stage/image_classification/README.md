@@ -224,3 +224,62 @@ for epoch in range(2):
 - 이후엔 학습 정리 및 코드 정리를 진행했다.
 - Data Augmentation 및 Age를 어떻게 잡을지 고민했다.
 - Luna, ResidualAttention Head로도 변경했으나 성능에 영향을 미치진 않았다.
+
+## Day 5 `21.08.27`
+
+### Ensemble
+- voting
+
+![img](../../assets/img/p-stage/imgcls_09_01.PNG)
+
+- Cross Validation
+
+![img](../../assets/img/p-stage/imgcls_09_02.PNG)
+
+- - Stratified K-Fold Cross Validation
+
+![img](../../assets/img/p-stage/imgcls_09_03.PNG)
+
+- Test Time Augmentation
+
+![img](../../assets/img/p-stage/imgcls_09_04.PNG)
+
+### Hyperparameter Optimiation
+
+![img](../../assets/img/p-stage/imgcls_09_05.PNG)
+
+### Training Visualization
+- Tensorboard
+
+```python
+from torch.utils.tensorboard import SummaryWriter
+
+logger = SummaryWriter(log_dir=f"results/{name}")
+logger.add_scalar("Train/loss", train_loss, epoch * len(train_loader) + idx)
+logger.add_scalar("Train/accuracy", train_acc, epoch * len(train_loader) + idx)
+
+for idx, train_batch in enumerate(train_loader):
+    inputs, labels = train_batch
+
+grid = torchvision.utils.make_grid(inputs)
+logger.add_image("image", grid, 0)
+logger.add_graph(model, inputs)
+```
+
+```
+tensorboard
+    --logdir PATH # log가 저장된 경로
+    --host ADDR   # 원격 서버에서 사용 시 0.0.0.0 (default: localhost)
+    --port PORT   # 포트 번호
+```
+
+- Weight and Bias (wandb)
+    - 난 이거 쓸래! 리얼 편함
+    - 텐서보드 상위호환
+
+### Python IDLE
+- 디버깅 기능을 위해 pycharm과 친해져야 할 듯
+
+### Wrap Up
+- 오늘은 강의 정리 및 dataset 분석을 실시했다.
+- 추가 외부 데이터셋으로 무엇을 사용할지도 분석했다.
