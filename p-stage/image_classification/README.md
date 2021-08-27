@@ -85,7 +85,7 @@
     - https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259
     - https://bbdata.tistory.com/9
 - Tesla 자율주행 연구소 Lead 인 Karpathy 가 트위터에 작성한 Pytorch Common Mistakes 해설
-    - https://medium.com/missinglink-deep-learning-platform/most-common-neural-net-pytorch-mistakes-456560ada037#:~:text=most%20common%20neural%20net%20mistakes,(
+    - https://medium.com/missinglink-deep-learning-platform/most-common-neural-net-pytorch-mistakes-456560ada037
 - 파이토치 꿀 기능. Autograd 의 official documentation 번역본
     - https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html
     - https://pytorch.org/docs/stable/notes/faq.html
@@ -98,3 +98,129 @@
 - 데이터셋에 labeling noise가 있는 것을 확인하고 active learning으로 해당 노이즈를 제거할 아이디어를 제출했다.
     - 그리고 내가 해결해서 공유하기로 했다.
 - 이번주 개인 주간 때엔 여러가지 해결하고 실험하여 baseline 모델을 구축할 예정이다.
+
+## Day 4 `21.08.26`
+
+### Loss
+- backpropagation
+- loss도 사실은 `nn.Module` Family
+- `loss.backward()`
+- **Focal Loss**: Class Imbalance 문제가 있는 경우, 맞춘 확률이 높은 Class는 조금의 Loss를, 맞춘 확률이 낮은 Class는 Loss를 훨씬 높게 부여
+- **Label Smoothing Loss**: Class target label을 OneHot 표현으로 사용하기 보다는 조금 soft하게 표현해서 일반화 성능을 높임
+
+### Optimizer
+- 어느 방향으로 얼마나 움직일 지?
+- LR Scheduler
+- **StepLR**: 특정 Step마다 LR 감소
+    ```python
+    scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=2, gamma=0.1)
+    ```
+- **CosineAnnealingLR**: Cosine 함수 형태처럼 LR을 급격히 변경
+    ```python
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=10, eta_min=0)
+    ```
+- **ReduceLROnPlateau**: 더 이상 성능 향상이 없을 때 LR 감소
+    ```python
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min')
+    ```
+
+### Metric
+- 모델의 평가
+- Score의 허와 실!
+- **Classification**: `Accuracy`, `F1-Score`, `Precision`, `Recall`, `ROC & AUC`
+- **Regression**: `MAE`, `MSE`
+- **Ranking**: `MRR`, `NDCG`, `MAP`
+- sample의 수에 따라 계산이 달라지기도 하고, 정확히 세팅을 맞춰줘서 올바르게 비교해야 함!
+
+### Training Process
+
+![img](../../assets/img/p-stage/imgcls_08_01.PNG)
+
+- `optimizer.zero_grad()`
+    ```python
+    def zero_grad(self, sen_to_none: bool = False):
+        for group in self.param_groups:
+            for p in group['params']:
+                if p.grad is not None:
+                    if set_to_none:
+                        p.grad = None
+                    else:
+                        if p.grad.grad_fn is not None:
+                            p.grad.detach_()
+                        else:
+                            p.grad.requires_grad_(False)
+                        p.grad.zero_()
+    ```
+
+- `loss = loss_fn(outputs, labels)`
+    ```python
+    def __init__(self, weight: Optional[Tensor] = None, size_average=None, ignore_index: int = -100, reduce=None, reduction: str = 'mean') -> None:
+        super(CrossEntropyLoss, self).__init__(weight, size_average, reduce, reduction)
+        self.ignore_index = ignore_index
+    def forward(self, input: Tensor, target: Tensor):
+        return F.cross_entropy(input, target, weight=self.weight,
+                               ignore_index=self.ignore_index, reduction=self.reduction)
+    ```
+
+![img](../../assets/img/p-stage/imgcls_08_02.PNG)
+
+- `optimizer.step()`
+    ```python
+    @torch.no_grad()
+    def step(self, closure=None):
+        """Performs a single optimization step.
+
+        Arguments:
+            closure (callable, optional): A closure that reevaluates teh model
+                and returns the loss.
+        """
+        loss = None
+        if closure is not None:
+            with torch.enable_grad():
+                loss = closure()
+
+        for group in self.param_groups:
+            params_with_grad = []
+            grads = []
+            exp_avgs = []
+            exp_avg_sqs = []
+            state_sums = []
+            max_exp_avg_sqs = []
+            state_steps = []
+    ```
+
+- **Gradient Accumulation**: 지금까지의 과정을 이해했다면 이를 응용하는 것도 가능!
+
+```python
+NUM_ACCUM = 2
+optimizer.zero_grad()
+for epoch in range(2):
+    running_loss = 0.0
+    for i, data in enumerate(train_loader, 0):
+        inputs, labels = data
+        outputs = net(inputs)
+
+        loss = criterion(outputs, labels) / NUM_ACCUM
+        loss.backward()
+
+        if i % NUM_ACCUM == 0:
+            optimizer.step()
+            optimizer.zero_grad()
+```
+
+### Inferece Process
+- `model.eval()`
+- `with torch.no_grad()`
+- Validation으로 검증!
+- checkpoint, 그냥 직접 짜면 오케이!
+
+### Wrap Up
+- 성능이 계속해서 오르지 않는다... `DeiT`, `BeiT`, `ViT` 다 실험해보는데 리더보드 1위 탈환이 안된다...
+- 결국 팀 병합 전 개인 9위로 마무리...
+- 그래도 마지막에 왜 분류가 잘 안되지? 를 train-set에서 오분류된 sample들을 분석하면서 이를 교정해서 성능을 많이 올렸다!
+    - 특정 의상을 입은 남/녀 샘플들이 있었다!
+    - 이를 모델이 아예 구별하질 못하고, 성별을 반대로 예측하는 경우가 존재했다.
+    - 이를 Crop size를 조절하고 sample weight를 추가로 더 줘서 교정했더니 F1 score가 1.37%정도 올랐다!
+- 이후엔 학습 정리 및 코드 정리를 진행했다.
+- Data Augmentation 및 Age를 어떻게 잡을지 고민했다.
+- Luna, ResidualAttention Head로도 변경했으나 성능에 영향을 미치진 않았다.
