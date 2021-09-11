@@ -136,7 +136,7 @@
 - [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/p-stage/image_classification)
 - 마스터: 김태진 강사님
 - [**S-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage) `2021.08.23`
-- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz) 3강
+- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz) 4강
 - 마스터: 안수빈 강사님
 
 ### Week 05
@@ -156,13 +156,20 @@
 
 ### Week 06
 - [**U-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage) `2021.09.06` ~ `2021.09.10`
-- NLP 이론
+- [NLP 이론](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/nlp)
 - 마스터: 주재걸 교수님
+- [CV  이론](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/cv)
+- 마스터: 오태현 교수님
 
 ### Week 07
 - [**U-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage) `2021.09.13` ~ `2021.09.17`
-- NLP 이론
+- [NLP 이론](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/nlp)
 - 마스터: 주재걸 교수님
+- [CV  이론](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/cv)
+- 마스터: 오태현 교수님
+- [**S-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage) `2021.08.23`
+- [Data Visualization](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz) 5강, 6강, 7강
+- 마스터: 안수빈 강사님
 
 ### Week 08
 - [**S-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage) `2021.09.20` ~ `2021.09.24`

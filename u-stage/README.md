@@ -23,3 +23,13 @@
 ## [PyTorch for AI](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/pytorch)
 - 최성철 마스터
 - Week3 `2021.08.17` ~ `2021.08.20`
+
+## [Natural Language Processing](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/nlp)
+- 주재걸 마스터
+- Week 6 `2021.09.06` ~ `2021.09.10`
+- Week 7 `2021.09.13` ~ `2021.09.17`
+
+## [Computer Vision](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/cv)
+- 오태현 마스터
+- Week 6 `2021.09.06` ~ `2021.09.10`
+- Week 7 `2021.09.13` ~ `2021.09.17`
