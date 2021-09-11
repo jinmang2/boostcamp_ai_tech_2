@@ -1,5 +1,7 @@
 # Section 1. 머신러닝 프로젝트 실험관리
-- 출처: https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A4%EB%AC%B4/
+- 출처: https://www.inflearn.com/course/머신러닝-엔지니어-실무/
+
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/o-stage/mlops)
 
 ## 실험관리 - Weights and Biases
 
