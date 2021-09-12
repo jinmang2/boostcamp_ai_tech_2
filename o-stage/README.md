@@ -4,3 +4,6 @@
 
 ## [MLOps](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/o-stage/mlops)
 - 송호연님 inflearn 강의
+
+## [Spark](https://github.com/jinmang2/spark-in-action)
+- spark in action 교재 스터디
