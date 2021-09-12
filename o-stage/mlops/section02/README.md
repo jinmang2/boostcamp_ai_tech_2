@@ -53,6 +53,10 @@
       </ul>
     </ul>
     <li><a href="#머신러닝-모델-분석-what-if-tool">머신러닝 모델 분석 What if tool</a></li>
+    <ul>
+      <li><a href="#what-if-tool-소개">What If Tool 소개</a></li>
+      <li><a href="#what-if-tool-모델-분석-실습">What If Tool 모델 분석 실습</a></li>
+    </ul>
   </ol>
 </details>
 
@@ -574,26 +578,65 @@ tfdv.display_anomalies(serving_anomalies_with_env)
 ## 머신러닝 모델 분석 What if tool
 
 ### What If Tool 소개
+- 모델 분석은 왜 필요할까?
+
+|                 | 전통적인 소프트웨어 개발                  | 머신러닝 소프트웨어 개발                           |
+|-----------------|-------------------------------------------|----------------------------------------------------|
+| 개발 접근법     | 명시적으로 컴퓨터에게 task를 알려줌       | 데이터를 통해 특정 작업을 수행하도록 알고리즘 학습 |
+| 데이터 요구사항 | 인간이 직접 data로부터 논리를 만듦        | 데이터의 품질과 양에 프로젝트 성공 여부가 달라짐   |
+| 적응력          | 환경에 따라 software design을 다시 해야함 | 운 환경이 오더라도 새로운 데이터를 보여주면 적응   |
+
+- 데이터와 모델 관점이 제일 중요함!
+- 디버깅이 기존 SW에 비해 어려움...
+- 이를 보조적으로 해주는 것이 WIT!
 
 #### WIT
+[![gif](../../../assets/img/o-stage/what-if-tool.gif)](https://pair-code.github.io/what-if-tool/)
+
+- 훈련된 ML 모델의 동작을 분석하는 시각화 기반의 도구
 
 #### 탭
+WIT의 interface는 로드된 모델의 종류에 따라 세 개의 탭으로 구성된다!
 
-#### 작업공간
+**Datapointer Editor**
 
-#### 모듈, 플레이 그라운드
+각각의 데이터 포인트를 우측 시각화 화면에 적용할 수 있다. 때문에 해당 feature를 변경했을 때의 예측 결과의 변경을 확인할 수 있다.
+
+**Performance**
+
+각 feature를 슬라이스한 모델의 성능을 확인할 수 있다. e.g., 성적 구간 별 모델 정확도, 나이 대 별 모델 정확도
+
+Binary Classification의 경우 각각의 feature에 대한 임계값을 다르게 설정했을 때의 성능 차이를 다차원으로 확인할 수 있음
+
+
+**Feature**
+
+TFDV에서 feature를 보는 것과 비슷한 기능!
+
 
 ### What If Tool 모델 분석 실습
+- UCI 인구 조사 데이터 셋
+- notebook에서 다음 명령어를 통해 WitWidget을 생성
 
-#### 데이터 세트 및 모델
+```python
+from witwidget.notebook.visualization from WitConfigBuilder
+from witwidget.notebook.visualization from WitWidget
 
-#### 노트북의 WIT
+config_builder = WitConfigBuilder(text_examples).set_estimator_and_feature_spec(classifier, feature_spec)
+WitWidget(config_builder)
+```
 
-#### 간단한 시각적 분석
+- WIT은 Cloud AI Platform Prediction, `set_ai_platform_model` 혹은 `set_custom_predict_fn` 메서드를 통해 Python에서 쿼리할 수 있는 모든 모델을 통해 제공되는 모델에서도 사용 가능!
 
-#### 가장 가까운 Counterfactuals 탐색
+- `Facets Dive` 자주 보임!
+    - 데이터 포인트 버킷화, 분산 및 색상 지정하는 기능을 통해 여러 시각화를 수행
+- WIT에선 Wounterfactual을 찾는 기능을 제공함
+    - 근데 그냥 L1, L2 distance임
+    - 무지성으로 쓰는 것보단 이해하고 응용할 수 있는 Tool이었으면 좋겠음
 
-#### 비용 비율 및 결정 임계 값 최적화
+[PAIR-code 예시](https://colab.research.google.com/github/PAIR-code/what-if-tool/blob/master/WIT_Smile_Detector.ipynb#scrollTo=A1s1_SiOyS0l)
+
+NLP에서 과연 활용할 수 있을까? 잘 모르겠다.
 
 <br/>
 <div align="right">
