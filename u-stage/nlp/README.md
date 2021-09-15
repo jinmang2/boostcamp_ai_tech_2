@@ -34,3 +34,7 @@
 
 ### [10강 Other Self-supervised Pre-training Models](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/nlp/ch10_other_selfsup)
 - Transfer Learning과 Transformer를 이용한 여러 pre-training model에 대해 알아본다
+
+### [Byte Pair Encoding](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/u-stage/nlp/bpe)
+- 선택과제 3번, 유용하기에 직접 논문을 읽고 제공 코드가 아닌 나만의 코드 기입
+- 추가로 `YouTokenToMe`, `tokenizers`로 BPE를 수행하는 방법도 기입
