@@ -31,7 +31,7 @@
 - More Tips
 
 
-## 4. 통계와 차트 (08/23 월)
+## [4. 통계와 차트 (08/23 월)](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz/ch04_statistics_chart)
 
 통계 정보와 시각화를 적절하게 융합할 수 있는 방법에 대해 알아봅시다.
 
@@ -40,7 +40,7 @@
 - Seaborn 심화
 
 
-## 5. 다양한 시각화 방법론 (09/06 월)
+## [5. 다양한 시각화 방법론 (09/06 월)](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz/ch05_various_viz)
 
 파이썬으로 할 수 있는 더 다양한 시각화를 학습합니다.
 
@@ -49,7 +49,7 @@
 - 다양한 시각화 라이브러리
 
 
-## 6. 인터랙티브 시각화 (09/06 월)
+## [6. 인터랙티브 시각화 (09/06 월)](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz/ch06_interactive_viz)
 
 인터랙티브를 사용해야 하는 이유와 간단한 라이브러리 사용법을 소개합니다.
 
@@ -57,7 +57,7 @@
 - Interactive Visualization 실습
 
 
-## 7. 주제별 시각화 테크닉 (09/06 월)
+## [7. 주제별 시각화 테크닉 (09/06 월)](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/s-stage/data_viz/ch07_viz_technique)
 
 앞서 공부한 시각화를 바탕으로 태스크 별 추가적인 테크닉을 소개합니다.
 
