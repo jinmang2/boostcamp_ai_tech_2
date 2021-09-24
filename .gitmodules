@@ -1,3 +1,4 @@
 [submodule "spark"]
 	path = o-stage/spark
+	branch = main
 	url = https://github.com/jinmang2/spark-in-action.git

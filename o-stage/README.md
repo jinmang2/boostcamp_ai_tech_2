@@ -7,3 +7,4 @@
 
 ## [Spark](https://github.com/jinmang2/spark-in-action)
 - spark in action 교재 스터디
+- submodule update 명령어 `git submodule update --recursive --remote`
