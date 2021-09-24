@@ -9,15 +9,34 @@
     <li>
       <a href="#31-text-사용하기">3.1 Text 사용하기</a>
     </li>
+    <ul>
+      <li><a href="#311-matplotlib에서-text">3.1.1 Matplotlib에서 Text</a></li>
+      <li><a href="#312-text-properties">3.1.2 Text Properties</a></li>
+      <li><a href="#313-한글-in-matplotlib">3.1.3 한글 in Matplotlib</a></li>
+    </ul>
     <li>
       <a href="#32-color-사용하기">3.2 Color 사용하기</a>
     </li>
+    <ul>
+      <li><a href="#321-color에-대한-이해">3.2.1 Color에 대한 이해</a></li>
+      <li><a href="#322-color-palette의-종류">3.2.2 Color Palette의 종류</a></li>
+      <li><a href="#323-그-외-색-tips">3.2.3 그 외 색 Tips</a></li>
+    </ul>
     <li>
       <a href="#33-facet-사용하기">3.3 Facet 사용하기</a>
     </li>
+    <ul>
+      <li><a href="#331-facet">3.3.1 Facet</a></li>
+      <li><a href="#332-matplotlib에서-구현">3.3.2 Matplotlib에서 구현</a></li>
+    </ul>
     <li>
       <a href="#34-more-tips">3.4 More Tips</a>
     </li>
+    <ul>
+      <li><a href="#341-grid-이해하기">3.4.1 Grid 이해하기</a></li>
+      <li><a href="#342-심플한-처리">3.4.2 심플한 처리</a></li>
+      <li><a href="#343-setting-바꾸기">3.4.3 Setting 바꾸기</a></li>
+    </ul>
   </ul>
 </details>
 

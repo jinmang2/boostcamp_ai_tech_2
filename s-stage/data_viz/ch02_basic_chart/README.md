@@ -9,12 +9,25 @@
     <li>
       <a href="#21-bar-plot-사용하기">2.1 Bar Plot 사용하기</a>
     </li>
+    <ul>
+      <li><a href="#211-bar-plot이란">2.1.1. Bar Plot이란?</a></li>
+      <li><a href="#212-다양한-bar-plot">2.1.2. 다양한 Bar Plot</a></li>
+      <li><a href="#213-정확한-bar-plot">2.1.3. 정확한 Bar Plot</a></li>
+    </ul>
     <li>
       <a href="#22-line-plot-사용하기">2.2 Line Plot 사용하기</a>
     </li>
+    <ul>
+      <li><a href="#221-basic-line-plot">2.2.1 Basic Line Plot</a></li>
+      <li><a href="#222-정확한-line-plot">2.2.2 정확한 Line Plot</a></li>
+    </ul>
     <li>
       <a href="#23-scatter-plot-사용하기">2.3 Scatter Plot 사용하기</a>
     </li>
+    <ul>
+      <li><a href="#231-basic-scatter-plot">2.3.1 Basic Scatter Plot</a></li>
+      <li><a href="#232-정확한-scatter-plot">2.3.2 정확한 Scatter Plot</a></li>
+    </ul>
   </ul>
 </details>
 
@@ -179,6 +192,12 @@ Bar plot의 오용을 막아봅시다
 
 ![img](../../../assets/img/s-stage/viz_2_12.PNG)
 
+<br/>
+<div align="right">
+    <b><a href="#2강-기본적인-차트의-사용">↥ back to top</a></b>
+</div>
+<br/>
+
 ### 2.2.2 정확한 Line Plot
 Line plot의 오용을 막아봅시다
 
@@ -274,6 +293,12 @@ Line plot의 오용을 막아봅시다
 - **데이터 셋의 특징 확인**
 
 ![img](../../../assets/img/s-stage/viz_2_22.PNG)
+
+<br/>
+<div align="right">
+    <b><a href="#2강-기본적인-차트의-사용">↥ back to top</a></b>
+</div>
+<br/>
 
 ### 2.3.2 정확한 Scatter Plot
 Scatter plot의 오용을 막아봅시다
