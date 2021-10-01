@@ -4,6 +4,8 @@
 
 다양한 언어 모델들을 활용하고 공유할 수 있는 Huggingface Hub에 대해 소개하고, 직접 본인의 모델을 공유하는 실습을 진행합니다.🤓
 
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>

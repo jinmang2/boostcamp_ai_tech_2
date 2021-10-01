@@ -8,6 +8,8 @@
 이번 강의에는 다양한 한국어에 특화된 전처리 기법을 배우고 실습합니다.😎
 한국어로 할 수 있는 거의 모든 전처리를 포함하고 있습니다! 😀
 
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>

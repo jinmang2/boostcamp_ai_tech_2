@@ -8,6 +8,8 @@
 
 두 문장 관계 분류 모델에서는 2개의 문장을 받아 그 문장들의 관계에 해당하는 라벨을 예측합니다.😚
 
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>

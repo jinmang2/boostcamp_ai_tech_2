@@ -6,6 +6,8 @@
 또한 앞으로의 과정을 위해 배경지식이 될 수 있는 자연어처리의 기초에 대해서 소개합니다.
 그리고 ‘언어모델’의 개념이 어떻게 탄생하게 됐는지 살펴보겠습니다.
 
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>

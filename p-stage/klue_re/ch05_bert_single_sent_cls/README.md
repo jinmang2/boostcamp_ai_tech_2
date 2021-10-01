@@ -6,6 +6,8 @@
 
 활용 분야로는 리뷰의 긍정/부정 등의 감성 분석, 뉴스의 카테고리 분류, 비속어 판단 모델 등이 있습니다.
 
+[back to super](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
