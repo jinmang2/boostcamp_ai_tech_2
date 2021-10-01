@@ -16,4 +16,9 @@
 
 ## LEVEL 2
 
+### [KLUE Relation Extraction](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
+- 김성현 마스터
+- Week 9 `2021.09.27` ~ `2021.10.01`
+- Week 10 `2021.10.04` ~ `2021.10.08`
+
 ## LEVEL 3

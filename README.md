@@ -150,7 +150,7 @@
 ### Week 04
 
 ##### [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.08.23` ~ `2021.08.27`
-- [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/p-stage/image_classification)
+- [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/image_classification)
     - `master`: 김태진 강사님
     - Image Classification 대회 1주차 진행
 
@@ -162,7 +162,7 @@
 ### Week 05
 
 ##### [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.08.30` ~ `2021.09.03`
-- [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/p-stage/image_classification)
+- [Image Classification](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/image_classification)
     - `master`: 김태진 강사님
     - Image Classification 대회 2주차 진행
 
@@ -209,13 +209,13 @@
 ### Week 09
 
 ##### [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.09.27` ~ `2021.10.01`
-- KLUE
+- [KLUE Relation Extraction](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
     - `master`: 김성현 강사님
 
 ### Week 10
 
 ##### [**P-stage**](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage) `2021.10.04` ~ `2021.10.08`
-- KLUE
+- [KLUE Relation Extraction](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/p-stage/klue_re)
     - `master`: 김성현 강사님
 
 ### Week 11
