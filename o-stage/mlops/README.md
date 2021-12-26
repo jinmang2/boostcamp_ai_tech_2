@@ -13,7 +13,7 @@
 ### [Section 02. 코드 품질, 데이터 검증, 모델 분석](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/o-stage/mlops/section02)
 - `21.09.12`
 
-### Section 03. 도커 & 쿠버네티스 기초
+### [Section 03. 도커 & 쿠버네티스 기초](https://github.com/jinmang2/boostcamp_ai_tech_2/tree/main/o-stage/mlops/section03)
 - `21.09.26`
 
 ### Section 04. 쿠베플로우 머신러닝 파이프 라인
